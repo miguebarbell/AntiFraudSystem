@@ -1,0 +1,7 @@
+### POST evaluate trasanaction
+POST localhost:28852/api/antifraud/transaction
+content-type: application/json
+
+{
+  "amount": 200
+}
